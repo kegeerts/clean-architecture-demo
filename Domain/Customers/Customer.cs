@@ -1,7 +1,7 @@
 ﻿using System;
 using CleanArchitecture.Domain.Common;
 
-namespace CleanArchitecture.Domain.Customers
+namespace CleanArchitecture.Domain.Customers 
 {
     public class Customer : IEntity
     {
